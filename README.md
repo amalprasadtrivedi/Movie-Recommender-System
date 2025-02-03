@@ -64,16 +64,17 @@ print(recommendations)
 
 **movie-recommender-system/**
 │
-├── app.py               # Flask app for web interface (Optional)
-├── requirements.txt     # Project dependencies
-├── recommender_system/  # Main folder for recommendation logic
-│   ├── collaborative_filtering.py
-│   ├── content_based_filtering.py
-│   └── utils.py
-├── dataset/             # Contains movie and rating data
-│   └── movielens_data.csv
-└── README.md            # Project documentation
-
+├── app.py               # Flask app for web interface (Optional) <br>
+├── requirements.txt     # Project dependencies  <br>
+├── recommender_system/  # Main folder for recommendation logic <br>
+│   ├── collaborative_filtering.py <br>
+│   ├── content_based_filtering.py <br>
+│   └── utils.py <br>
+├── dataset/             # Contains movie and rating data <br>
+│   └── movielens_data.csv <br>
+└── README.md            # Project documentation <br>
+ <br>
+  <br>
 
 
 ## Contributing
